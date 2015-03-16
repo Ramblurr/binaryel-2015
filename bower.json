@@ -1,0 +1,16 @@
+{
+  "name": "BinaryElysium",
+  "version": "0.0.1",
+  "main": "",
+  "dependencies": {
+    "jquery": "~2.x",
+    "modernizr": "~2.6.x",
+    "picturefill": "~2.3.x",
+    "velocity": "~1.2.x"
+  },
+  "overrides": {
+    "modernizr": {
+      "main": "modernizr.js"
+    }
+  }
+}
