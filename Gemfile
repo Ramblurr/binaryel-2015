@@ -13,4 +13,5 @@ gem "sprockets-less"
 gem "therubyracer"
 gem "less"
 gem 'middleman-autoprefixer', github: 'middleman/middleman-autoprefixer'
+gem "middleman-gh-pages"
 #gem "middleman-imageoptim"
