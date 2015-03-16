@@ -1,0 +1,1 @@
+function floatAnimation(n){console.log("ZOMG");var o=8;$(n).animate({top:"+="+o+"px"},1500,"swing",function(){$(n).animate({top:"-="+o+"px"},1300,"swing",function(){floatAnimation(n)})})}skel.on("ready",function(){console.log("ZOMG")});
